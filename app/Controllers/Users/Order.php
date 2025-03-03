@@ -15,7 +15,7 @@ class Order extends BaseController
 {
     private $orderModel;
     private $orderdetailsModel;
-    private $apiKey = 'd2bf5f9b5cc24d636cd22da2135d43e5';
+    private $apiKey = 'your_api_key_rajaongkir';
 
     function __construct()
     {
